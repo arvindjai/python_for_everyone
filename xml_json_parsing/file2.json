@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.653,
+            37.9417
+          ]
+        },
+        "properties": {
+          "country_code": "gr",
+          "display_name": "University of Piraeus",
+          "country": "Greece",
+          "datasource": {
+            "sourcename": "geonames",
+            "attribution": "GeoNames",
+            "license": "CC BY 4.0",
+            "url": "https://www.geonames.org/datasources/"
+          },
+          "state": "Attica",
+          "city": "Piraeus",
+          "suburb": "Moskháton",
+          "lon": 23.653,
+          "lat": 37.9417,
+          "result_type": "amenity",
+          "formatted": "University of Piraeus, Moskháton, Piraeus, Attica, Greece",
+          "address_line1": "University of Piraeus",
+          "address_line2": "Moskháton, Piraeus, Attica, Greece",
+          "timezone": {
+            "display_name": "Europe/Athens",
+            "offset_STD": "+02:00",
+            "offset_STD_seconds": 7200,
+            "offset_DST": "+03:00",
+            "offset_DST_seconds": 10800,
+            "abbreviation_STD": "EET",
+            "abbreviation_DST": "EEST"
+          },
+          "plus_code": "8G95WMR3+M5",
+          "plus_code_short": "R3+M5 Piraeus, Attica, Greece",
+          "rank": {
+            "popularity": 8.937929883832682,
+            "confidence": 0.75,
+            "match_type": "full_match"
+          },
+          "place_id": "51ba490c022ba7374059545227a089f84240c00201920315556e6976657273697479206f662050697261657573e2031667656f6e616d65733a76656e75653a38353536333331"
+        }
+      }
+    ],
+    "query": {
+      "text": "University of Piraeus Athens"
+    }
+  }

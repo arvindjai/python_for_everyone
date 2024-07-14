@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "old_name": "Bombay",
+        "country": "India",
+        "country_code": "in",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "lon": 72.878176,
+        "lat": 19.0785451,
+        "state_code": "MH",
+        "result_type": "city",
+        "formatted": "Mumbai, MH, India",
+        "address_line1": "Mumbai",
+        "address_line2": "MH, India",
+        "category": "administrative",
+        "timezone": {
+          "display_name": "Asia/Kolkata",
+          "offset_STD": "+05:30",
+          "offset_STD_seconds": 19800,
+          "offset_DST": "+05:30",
+          "offset_DST_seconds": 19800,
+          "abbreviation_STD": "IST",
+          "abbreviation_DST": "IST"
+        },
+        "plus_code": "7JFJ3VHH+C7",
+        "plus_code_short": "HH+C7 Mumbai, Maharashtra, India",
+        "rank": {
+          "importance": 0.7599499101971479,
+          "popularity": 4.200378380825719,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5174081c093438524059d4c21b881b143340f00101f901d786790000000000c00208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.878176,
+          19.0785451
+        ]
+      },
+      "bbox": [
+        72.776333,
+        18.9916479,
+        72.9817485,
+        19.2694771
+      ]
+    }
+  ],
+  "query": {
+    "text": "mumbai",
+    "parsed": {
+      "city": "mumbai",
+      "expected_type": "unknown"
+    }
+  }
+}

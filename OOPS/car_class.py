@@ -18,4 +18,4 @@ car1 = car("toyota","Fortuner","blue",75)
 car2 = car("dodge","challenger","white",40)
 
 car1.accelerate(20)
-print(f"{car1.make } {car1.model} is at speed of : {car1.speed}km/h")
+print(f"{car1.make } {car1.model} is at speed of : {car1.speed}km/h having {car1.color} colour.")
